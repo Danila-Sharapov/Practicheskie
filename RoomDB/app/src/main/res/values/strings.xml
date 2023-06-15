@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RoomDb</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="moneyOff">
+        <item>На колбасу</item>
+        <item>На сыр</item>
+        <item>На пк</item>
+        <item>На диплом</item>
+    </string-array>
+    <string-array name="money">
+        <item>Заработал</item>
+        <item>Украл</item>
+        <item>Выпросил</item>
+        <item>Из магического мешка</item>
+    </string-array>
+</resources>

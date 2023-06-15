@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164531512557",
+    "project_id": "firecloudbase",
+    "storage_bucket": "firecloudbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164531512557:android:426944732c9c4445a458e4",
+        "android_client_info": {
+          "package_name": "com.example.firecloudbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164531512557-5fb6g7ov0m3r6od6mm97intorgbqdrci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTYa6tdUEjIrOBIcyytW6mgJm6fkh1Pdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164531512557-5fb6g7ov0m3r6od6mm97intorgbqdrci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
